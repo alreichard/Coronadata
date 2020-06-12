@@ -14,7 +14,7 @@ first I used and 'isin' function to only take the information from each table th
 # results
 first graph shows all data and has a correlation of -.3
 second graph is more zoomed in, removing outliers. It has a correlations of -.26
-![](/.png)
+![](/Screen Shot 2020-06-12 at 3.10.07 PM.png)
 
 # conclusion
 
